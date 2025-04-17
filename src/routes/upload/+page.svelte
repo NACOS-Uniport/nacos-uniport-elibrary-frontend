@@ -117,7 +117,7 @@
   class="min-h-screen space-y-6 bg-gradient-to-br from-background to-background/95 px-3 lg:px-4"
 >
   <div class="py-4 md:py-6">
-    <h1 class="text-3xl font-bold tracking-tight lg:text-4xl">
+    <h1 class="text-3xl font-bold tracking-tight lg:text-4xl dark:text-white">
       Upload Document
     </h1>
     <p class="text-muted-foreground">
