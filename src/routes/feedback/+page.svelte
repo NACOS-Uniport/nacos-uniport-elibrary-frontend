@@ -359,4 +359,4 @@
 </div>
 
 <!-- Add a hidden iframe for form submission -->
-<iframe id={iframeId} name={iframeId} style="display:none;"></iframe>
+<iframe id={iframeId} name={iframeId} title="Form submission target" style="display:none;"></iframe>

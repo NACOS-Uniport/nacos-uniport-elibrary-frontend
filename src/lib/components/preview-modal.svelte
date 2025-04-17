@@ -34,8 +34,9 @@
                 <iframe
                     title="Document Preview"
                     src={`${url}#toolbar=0`}
-                    class="w-full h-full rounded-lg border"
-                />
+                    class="h-full w-full"
+                    loading="lazy"
+                ></iframe>
             </CardContent>
         </Card>
     </div>
