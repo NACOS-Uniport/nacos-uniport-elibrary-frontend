@@ -169,7 +169,7 @@
 >
   <div class="space-y-6 py-4 md:py-6">
     <div>
-      <h1 class="text-3xl font-bold tracking-tight lg:text-4xl">Feedback</h1>
+      <h1 class="text-3xl font-bold tracking-tight lg:text-4xl dark:text-white">Feedback</h1>
       <p class="text-muted-foreground">Help us improve your experience</p>
     </div>
 
