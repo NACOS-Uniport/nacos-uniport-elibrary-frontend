@@ -143,7 +143,7 @@
   <div class="flex flex-col gap-3">
     <div class="flex items-center justify-between">
       <div>
-        <h1 class="text-3xl font-bold tracking-tight lg:text-4xl">
+        <h1 class="text-3xl font-bold tracking-tight lg:text-4xl dark:text-white">
           Document Library
         </h1>
         <p class="text-muted-foreground">
