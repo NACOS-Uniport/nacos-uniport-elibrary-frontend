@@ -165,7 +165,7 @@
 </script>
 
 <div
-  class="min-h-screen space-y-6 bg-gradient-to-br from-background to-background/95 px-1 lg:px-4"
+  class="min-h-screen space-y-6 bg-gradient-to-br from-background to-background/95 px-1 lg:px-4 dark:text-white"
 >
   <div class="space-y-6 py-4 md:py-6">
     <div>
