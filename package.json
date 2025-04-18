@@ -13,6 +13,7 @@
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^3.0.0",
+		"@sveltejs/adapter-vercel": "^5.7.0",
 		"@sveltejs/kit": "^2.9.0",
 		"@sveltejs/vite-plugin-svelte": "^4.0.0",
 		"autoprefixer": "^10.4.20",
@@ -45,6 +46,7 @@
 		"lucide-svelte": "^0.462.0",
 		"pdfjs-dist": "3.11.174",
 		"svelte-radix": "^2.0.1",
-		"svelte-sonner": "^0.3.28"
+		"svelte-sonner": "^0.3.28",
+		"@sveltejs/adapter-vercel": "^3.0.0"
 	}
 }
