@@ -13,7 +13,7 @@
   "buildCommand": "bun run build",
   "devCommand": "bun run dev",
   "installCommand": "bun install",
-  "outputDirectory": ".svelte-kit",
+  "outputDirectory": ".svelte-kit/output",
   "routes": [
     { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/" }
